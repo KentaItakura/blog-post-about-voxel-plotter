@@ -1,3 +1,5 @@
+こちらの内容は、[こちらのブログ記事](https://github.com/KentaItakura/blog-post-about-voxel-plotter)で紹介されています。ぜひご覧ください。
+
 # voxelPlotterを利用して、点群とグリッドを重ね合わせてみよう
 
 この記事では、以下のように、3次元点群にグリッドを重ね合わせて表示する方法について紹介します。メインのコードである、`VoxelPlotter.m`は、以下のMATLAB Centralにて公開されているものを使いました。
