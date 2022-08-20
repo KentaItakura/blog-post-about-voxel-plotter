@@ -1,3 +1,6 @@
+%Author: Itzik Ben Shabat
+%Date: 10.5.15
+
 function [FV]=FindExternalVoxels(VoxelMat,Vox_Size)
 % FindExternalVoxels scans VoxeLMat (a 3D matrix) and finds which voxels
 % are external by checking if they have nieghbors from all 6 sides

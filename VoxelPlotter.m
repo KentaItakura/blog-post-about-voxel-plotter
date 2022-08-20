@@ -1,3 +1,6 @@
+%Author: Itzik Ben Shabat
+%Date: 10.5.15
+
 function [vol_handle]=VoxelPlotter(VoxelMat,Vox_Size,FaceAlpha)
 %detect the external voxels and faces
 vol_handle=0;
